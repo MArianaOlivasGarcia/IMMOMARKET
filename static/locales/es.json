@@ -1,0 +1,318 @@
+{
+    "components": {
+        "home_carousel": {
+            "details": "Detalles"
+        },
+        "best_developments": {
+            "title": "DESARROLLOS DESTACADOS"
+        },
+        "best_properties": {
+            "title": "Propiedades Recientes",
+            "link": "Todas las propiedades"
+        },
+        "property_card": {
+            "link": "Ver más",
+            "area": "Terreno",
+            "bedrooms": "Recámara(s)",
+            "bathrooms": "Baño(s)",
+            "construction": "Construcción",
+            "since": "Desde",
+            "legend": "*Precios sujetos a cambios sin previo aviso"
+        },
+        "development_card": {
+            "link": "Ver más",
+            "area": "Terreno",
+            "bedrooms": "Recámara(s)",
+            "bathrooms": "Baño(s)",
+            "construction": "Construcción",
+            "since": "Desde",
+            "legend": "*Precios sujetos a cambios sin previo aviso"
+        },
+        "places_section": {
+            "title": "Destinos"
+        },
+        "place_card": {
+            "link": "Ver propiedades"
+        },
+        "news_card": {
+            "link": "Ver más"
+        },
+        "agent_card": {
+            "link": "VER AGENTE"
+        },
+        "contact_form": {
+            "name_input_placeholder": "Nombre",
+            "name_input_message": "Ingrese al menos 4 caracteres",
+            "email_input_placeholder": "Correo electrónico",
+            "email_input_message": "Introduce un correo electrónico correcto",
+            "phone_input_label": "Teléfono",
+            "phone_input_placeholder": "Ingresa tu Teléfono",
+            "phone_input_message": "Ingrese al menos 8 caracteres de asunto",
+            "message_input_placeholder": "Mensaje",
+            "message_input_message": "Por favor escribenos algo.",
+            "button": "Enviar"
+        },
+        "error_section": {
+            "404": {
+                "title": "Oops! Página no encontrada",
+                "description": "Disculpe. La página que está buscando no existe."
+            },
+            "204": {
+                "title": "Oops! No se encontraron resultados para tu búsqueda",
+                "description": "Intente con otros parámetros."
+            },
+            "302": {
+                "title": "Oops! Propiedad no encontrada",
+                "description": "Disculpe. La propiedad que está buscando no existe."
+            },
+            "306": {
+                "title": "Oops! Desarrollo no encontrado",
+                "description": "Disculpe. El desarrollo que está buscando no existe."
+            }
+        },
+        "detail_carousel": {
+            "lightbox": "Ampliar Fotos"
+        }
+    },
+    "layout": {
+        "nav": {
+            "home": "Inicio",
+            "properties": "Propiedades",
+            "developments": "Desarrollos",
+            "agents": "Agentes",
+            "about": {
+                "title": "Nosotros",
+                "privacy": "Aviso de privacidad",
+                "consultacy": "Consultoría",
+                "offices": "Oficinas"
+            },
+            "contact": "Contacto",
+            "broker_cr": "SOY BROKER CR",
+            "go_to_immo": "ACCEDER A IMMO CRM 360"
+        },
+        "header": {
+            "search_form": {
+                "keyword_input": "Nombre, Ciudad",
+                "operation_input": "OPERACIÓN",
+                "property_type_input": "TIPO DE PROPIEDAD",
+                "development_type_input": "TIPO DE DESARROLLO",
+                "min_price_input": "PRECIO MIN",
+                "min_price_select": "Precio min",
+                "max_price_input": "PRECIO MAX",
+                "max_price_select": "Precio max",
+                "municipality_input": "MUNICIPIO",
+                "location_input": "UBICACIÓN",
+                "option_select": "Selecciona",
+                "option_sold": "Venta",
+                "option_rent": "Renta",
+                "option_vacation": "Renta Vacacional ",
+                "all_cities_option": "Todas las ciudades",
+                "type_search": "BUSCAR DESARROLLOS",
+                "button": "BUSCAR",
+                "location_autocomplete":"AUTOCOMPLETADO",
+                "location_autocomplete_input": "Ciudad, Estado, Calle"
+            }
+        },
+        "footer": {
+            "company_phone": "Teléfono",
+            "company_email": "Correo Electrónico",
+            "company_address": "Dirección",
+            "contact_title": "Contacto",
+            "menu_title": "Menú",
+            "social_links": "Síguenos",
+            "copyright": "Todos los derechos reservados."
+        },
+        "banner": {
+            "home_link": "Inicio",
+            "properties_link": "Propiedades",
+            "agents_link": "Agentes"
+        }
+    },
+    "pages": {
+        "home": {
+            "title_properties": "Principales propiedades"
+        },
+        "contact": {
+            "title": "Contáctanos",
+            "contact_info": "Información de contacto",
+            "company_phone": "Teléfono",
+            "company_address": "Dirección",
+            "company_email": "Correo Electrónico",
+            "social_title": "Síguenos en nuestras redes"
+        },
+        "about": {
+            "company": {
+                "title": "NUESTRA EMPRESA",
+                "description": "Presentación de la empresa en donde generalmente se coloca el nombre, una pequeña historia de la evolución de la empresa (resumida), mencionar al equipo de trabajo, se habala de logros y puntos fuertes, que diferencian a tu empresa de las demas."
+            },
+            "slogan": "ESLOGAN. frase que destaca lo que hace una empresa, hace hincapié en un valor o característica.",
+            "mision": {
+                "title": "MISIÓN",
+                "description": "La misión de una empresa comprende los objetivos y principios esenciales para el trabajo de la organización. La misión empresarial se declara con la formulación de una sentencia; una frase única en la que se comunica el concepto más importante de un negocio."
+            },
+            "vision": {
+                "title": "VISIÓN",
+                "description": "La visión de una empresa describe el objetivo que espera lograr en un futuro. la definición de la visión debe ser uno de los papeles centrales del líder, y del equipo ejecutivo de la empresa"
+            },
+            "values": {
+                "title": "VALORES",
+                "example_one": {
+                    "description": "Originalidad. La persecución del propio camino, incluso cuando eso suponga riesgo y mayores exigencias."
+                },
+                "example_two": {
+                    "description": "Solidaridad. Tender una mano al necesitado, anteponer el bienestar colectivo al lucro, saber poner coto a la competitividad empresarial dentro y fuera de la organización."
+                }
+
+            }
+        },
+        "properties": {
+            "title": "Propiedades"
+        },
+        "property_detail": {
+            "title": "Detalle de Propiedad",
+            "features": "Características",
+            "feature_operation": "Operación",
+            "feature_type": "Tipo de propiedad",
+            "feature_address": "Dirección",
+            "feature_area_cons": "Área de construcción",
+            "feature_area_lot": "Área de terreno",
+            "feature_bedrooms": "Recámaras",
+            "feature_bathrooms": "Baños",
+            "feature_half_bathrooms": "Medios Baños",
+            "feature_parking": "Estacionamientos",
+            "documents": "Documentos",
+            "share_prop": "Comparte",
+            "share_whats_message_public": "Hola. Mira esta propiedad, te podría interesar!",
+            "share_whats_message_agent": "Buen día estoy interesado en esta propiedad",
+            "description_prop": "Descripción",
+            "amenities_prop": "Amenidades",
+            "amenities_interior": "Interiores",
+            "amenities_exterior": "Exteriores",
+            "amenities_maintenance": "Mantenimiento",
+            "amenities_development": "Desarrollo",
+            "services_prop": "Servicios",
+            "agent_information": "Información del Agente",
+            "agent_cellphone": "Celular",
+            "agent_phone": "Teléfono",
+            "agent_email": "Correo Electrónico",
+            "references": "Referencia",
+            "share_title": "DESCARGA EL CONTENIDO DE ESTA PROPIEDAD",
+            "contact_us": "CONTÁCTANOS",
+            "map_title": "Ubicación"
+
+        },
+        "developments": {
+            "title": "Desarrollos"
+        },
+        "development_detail": {
+            "features": "Características",
+            "feature_presale": "EN PREVENTA",
+            "feature_type": "Tipo de propiedad",
+            "feature_address": "Dirección",
+            "feature_area_cons": "Área de construcción",
+            "feature_area_lot": "Área de terreno",
+            "feature_bedrooms": "Recámaras",
+            "feature_bathrooms": "Baños",
+            "feature_parking": "Estacionamientos",
+            "feature_months_market": "Meses en mercado",
+            "feature_units_aviable": "Unidades disponibles",
+            "documents": "Documentos",
+            "share_prop": "Comparte",
+            "share_whats_message_public": "Hola. Mira este desarrollo, te podría interesar!",
+            "share_whats_message": "Buen día estoy interesado en este desarrollo",
+            "description_prop": "Descripción",
+            "amenities_prop": "Amenidades",
+            "services_prop": "Servicios",
+            "agent_information": "Información del Agente",
+            "agent_cellphone": "Celular",
+            "agent_phone": "Teléfono",
+            "agent_email": "Correo Elelctrónico",
+            "maintenance_includes": "Mantenimiento",
+            "price_from": "Desde",
+            "contact_us": "CONTÁCTANOS",
+            "units_aviable": "Unidades Disponibles",
+            "map_title": "Ubicación",
+            "mapper_title": "Planos",
+            "masterplan_title": "Conoce nuestro MASTER PLAN",
+            "masterplan_section_button": "Descubre las secciones del desarrollo",
+            "mapper_section_name": "Sección",
+            "mapper_return_button": "Ver detalle del desarrollo",
+            "mapper_status_available": "Disponible",
+            "mapper_status_reserved": "Reservado",
+            "mapper_status_unavailable": "No Disponible",
+            "mapper_alert_error": "Unidad no disponible",
+            "mapper_alert_contactform_title": "Solicita información de esta unidad",
+            "mapper_alert_form_term": "Plazo",
+            "mapper_alert_form_monthlypayment": "Mensualidad",
+            "mapper_alert_form_deposit": "Enganche",
+            "mapper_alert_form_availability": "Disponibilidad",
+            "mapper_alert_form_cost": "Costo",
+            "mapper_alert_form_area": "Área",
+            "share_title": "DESCARGA EL CONTENIDO DE ESTE DESARROLLO"
+
+        },
+        "agent_detail": {
+            "title": "Nuestros Agentes",
+            "our_properties": "Mis Propiedades"
+        }
+    },
+    "routes": {
+        "home": {
+            "breadcrumb": "Inicio"
+        },
+        "about": {
+            "page_title": "Acerca de Nosotros",
+            "breadcrumb": "Nosotros"
+        },
+        "privacy": {
+            "page_title": "Aviso de Privacidad",
+            "breadcrumb": "Aviso de Privacidad"
+        },
+        "properties": {
+            "page_title": "Propiedades",
+            "breadcrumb": "Propiedades"
+        },
+        "property": {
+            "breadcrumb": "Características"
+        },
+        "property_not_found": {
+            "breadcrumb": "Propiedad no encontrada",
+            "page_title": "Propiedad no encontrada"
+        },
+        "developments": {
+            "page_title": "Desarrollos",
+            "breadcrumb": "Desarrollos"
+        },
+        "development": {
+            "breadcrumb": "Características"
+        },
+        "development_not_found": {
+            "breadcrumb": "Desarrollo no encontrado",
+            "page_title": "Desarrollo no encontrado"
+        },
+        "search_results": {
+            "page_title": "Resultados de búsqueda",
+            "breadcrumb": "Resultado"
+        },
+        "search_results_devs": {
+            "page_title": "Busqueda de desarrollos",
+            "breadcrumb": "Resultado"
+        },
+        "agents": {
+            "page_title": "Agentes",
+            "breadcrumb": "Agentes"
+        },
+        "agent": {
+            "breadcrumb": "Perfil de agente"
+        },
+        "contact": {
+            "page_title": "CONTÁCTANOS",
+            "breadcrumb": "Contacto"
+        },
+        "error": {
+            "breadcrumb": "Página no encontrada",
+            "page_title": "Error"
+        }
+    }
+
+}

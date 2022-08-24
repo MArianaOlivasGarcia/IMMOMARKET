@@ -1,0 +1,316 @@
+{
+    "components": {
+        "home_carousel": {
+            "details": "Details"
+        },
+        "best_developments": {
+            "title": "FEATURED DEVELOPMENTS"
+        },
+        "best_properties": {
+            "title": "Recent Properties",
+            "link": "All properties"
+        },
+        "property_card": {
+            "link": "See more",
+            "area": "Terrain",
+            "bedrooms": "Bedroom(s)",
+            "bathrooms": "Bathroom(s)",
+            "construction": "Construction",
+            "since": "From ",
+            "legend": "*Prices subject to change without notice"
+        },
+        "development_card": {
+            "link": "See more",
+            "area": "Terrain",
+            "bedrooms": "Bedroom(s)",
+            "bathrooms": "Bathroom(s)",
+            "construction": "Construction",
+            "since": "From ",
+            "legend": "*Prices subject to change without notice"
+        },
+        "places_section": {
+            "title": "Destinations"
+        },
+        "place_card": {
+            "link": "See Properties"
+        },
+        "news_card": {
+            "link": "See more"
+        },
+        "agent_card": {
+            "link": "VIEW AGENT"
+        },
+        "contact_form": {
+            "name_input_placeholder": "Name",
+            "name_input_message": "Please enter at least 4 characters",
+            "email_input_placeholder": "Email",
+            "email_input_message": "Enter a correct email",
+            "phone_input_label": "Phone",
+            "phone_input_placeholder": "Enter your Phone",
+            "phone_input_message": "Please enter at least 8 chars of subject",
+            "message_input_placeholder": "Message",
+            "message_input_message": "Please write something for us",
+            "button": "Send"
+        },
+        "error_section": {
+            "404": {
+                "title": "Oops! Page not found",
+                "description": "Excuse me. The page you are looking for does not exist."
+            },
+            "204": {
+                "title": "Oops! No results were found for your search",
+                "description": "Try other parameters."
+            },
+            "302": {
+                "title": "Oops! Property not found",
+                "description": "Excuse me. The property you are looking for does not exist."
+            },
+            "306": {
+                "title": "Oops! Development not found",
+                "description": "Excuse me. The developmnent you are looking for does not exist."
+            }
+        },
+        "detail_carousel": {
+            "lightbox": "Enlarge Photos"
+        }
+    },
+    "layout": {
+        "nav": {
+            "home": "Home",
+            "properties": "Properties",
+            "developments": "Developments",
+            "agents": "Agents",
+            "about": {
+                "title": "About Us",
+                "privacy": "Privacy notice",
+                "consultacy": "Consultacy",
+                "offices": "Offices"
+            },
+            "contact": "Contact",
+            "go_to_immo": "ACCESS IMMO CRM 360"
+        },
+        "header": {
+            "search_form": {
+                "keyword_input": "Name, City",
+                "operation_input": "OPERATION",
+                "property_type_input": "PROPERTY TYPE",
+                "development_type_input": "DEVELOPMENT TYPE",
+                "min_price_input": "PRICE MIN",
+                "min_price_select": "Price min",
+                "max_price_input": "PRICE MAX",
+                "max_price_select": "Price max",
+                "municipality_input": "MUNICIPALITY",
+                "location_input": "LOCATION",
+                "option_select": "Select",
+                "option_sold": "Sold",
+                "option_rent": "Rent",
+                "option_vacation": "Vacation Rental",
+                "all_cities_option": "All cities",
+                "type_search": "SEARCH DEVELOPMENTS",
+                "button": "SEARCH",
+                "location_autocomplete":"AUTOCOMPLETE",
+                "location_autocomplete_input": "City, State, Street"
+            }
+        },
+        "footer": {
+            "company_phone": "Phone",
+            "company_email": "Email",
+            "company_address": "Address",
+            "contact_title": "Contact",
+            "menu_title": "Menu",
+            "social_links": "Follow Us",
+            "copyright": "All rights reserved."
+        },
+
+        "banner": {
+            "home_link": "Home",
+            "properties_link": "Properties",
+            "agents_link": "Agents"
+        }
+    },
+    "pages": {
+        "home": {
+            "title_properties": "Main Properties"
+        },
+        "contact": {
+            "title": "Contact Us",
+            "contact_info": "Contact information",
+            "company_phone": "Phone",
+            "company_address": "Address",
+            "company_email": "Email",
+            "social_title": "Follow us on our networks"
+        },
+        "about": {
+            "company": {
+                "title": "OUR COMPANY",
+                "description": "Presentation of the company where the name is usually placed, a short history of the evolution of the company, mention the work team, talk about achievements and strengths, which differentiate your company from the others."
+            },
+            "slogan": "SLOGAN. phrase that highlights what a company does, emphasizes a value or characteristic.",
+            "mision": {
+                "title": "MISION",
+                "description": "The mission of a company includes the objectives and essential principles for the work of the organization. The business mission is declared with the formulation of a sentence; a single phrase in which the most important concept of a business is communicated."
+            },
+            "vision": {
+                "title": "VISION",
+                "description": "A company's vision describes the goal it hopes to achieve in the future. the definition of the vision should be one of the central roles of the leader, and of the executive team of the company."
+            },
+            "values": {
+                "title": "VALUES",
+                "example_one": {
+                    "description": "Originality. The pursuit of one's own path, even when that involves risk and greater demands."
+                },
+                "example_two": {
+                    "description": "Solidarity. Lending a hand to the needy, putting the collective welfare before profit, knowing how to curb business competitiveness inside and outside the organization."
+                }
+
+            }
+        },
+        "properties": {
+            "title": "Properties"
+        },
+        "property_detail": {
+            "title": "Property Detail",
+            "features": "Features",
+            "feature_operation": "Operation",
+            "feature_type": "Property type",
+            "feature_address": "Address",
+            "feature_area_cons": "Construction area",
+            "feature_area_lot": "Land area",
+            "feature_bedrooms": "Bedrooms",
+            "feature_bathrooms": "Bathrooms",
+            "feature_half_bathrooms": "Half baths",
+            "feature_parking": "Parking",
+            "documents": "Documents",
+            "share_prop": "Share",
+            "share_whats_message_public": "Hello. Look at this property, it might interest you!",
+            "share_whats_message_agent": "Good morning, I'm interested in this property",
+            "description_prop": "Description",
+            "amenities_prop": "Amenities",
+            "amenities_interior": "Interiors",
+            "amenities_exterior": "Exterior",
+            "amenities_maintenance": "Maintenance",
+            "amenities_development": "Development",
+            "services_prop": "Services",
+            "agent_information": "Agent Information",
+            "agent_cellphone": "Mobile",
+            "agent_phone": "Phone",
+            "agent_email": "Email",
+            "references": "Reference",
+            "share_title": "DOWNLOAD THE CONTENT OF THIS PROPERTY",
+            "contact_us": "CONTACT US",
+            "map_title": "Location"
+
+        },
+        "developments": {
+            "title": "Developments"
+        },
+        "development_detail": {
+            "features": "Features",
+            "feature_presale": "FOR PRESALE",
+            "feature_type": "Property type",
+            "feature_address": "Address",
+            "feature_area_cons": "Construction area",
+            "feature_area_lot": "Land area",
+            "feature_bedrooms": "Bedrooms",
+            "feature_bathrooms": "Bathrooms",
+            "feature_parking": "Parking",
+            "feature_months_market": "Months on market",
+            "feature_units_aviable": "Available units",
+            "documents": "Documents",
+            "share_prop": "Share",
+            "share_whats_message_public": "Hello. Look at this development, it might interest you!",
+            "share_whats_message_agent": "Good morning, I'm interested in this development",
+            "description_prop": "Description",
+            "amenities_prop": "Amenities",
+            "services_prop": "Services",
+            "agent_information": "Agent Information",
+            "agent_cellphone": "Mobile",
+            "agent_phone": "Phone",
+            "agent_email": "Email",
+            "maintenance_includes": "Maintenance",
+            "price_from": "From",
+            "contact_us": "CONTACT US",
+            "units_aviable": "Units Aviable",
+            "map_title": "Location",
+            "mapper_title": "Blueprints",
+            "masterplan_title": "Get to know our MASTER PLAN",
+            "masterplan_section_button": "Discover the development sections",
+            "mapper_section_name": "Section",
+            "mapper_return_button": "See development detail",
+            "mapper_status_available": "Available",
+            "mapper_status_reserved": "Reserved",
+            "mapper_status_unavailable": "Not Available",
+            "mapper_alert_error": "Unit Not Available",
+            "mapper_alert_contactform_title": "Request information about this unit",
+            "mapper_alert_form_term": "Term",
+            "mapper_alert_form_monthlypayment": "Monthly Payment",
+            "mapper_alert_form_deposit": "Deposit",
+            "mapper_alert_form_availability": "Availability",
+            "mapper_alert_form_cost": "Cost",
+            "mapper_alert_form_area": "Area",
+            "share_title": "DOWNLOAD THE CONTENT OF THIS DEVELOPMENT"
+        },
+        "agent_detail": {
+            "title": "Our Agents",
+            "our_properties": "My Properties"
+        }
+    },
+    "routes": {
+        "home": {
+            "breadcrumb": "Start"
+        },
+        "about": {
+            "page_title": "About Us",
+            "breadcrumb": "About us"
+        },
+        "privacy": {
+            "page_title": "PRIVACY NOTICE",
+            "breadcrumb": "Privacy Notice"
+        },
+        "properties": {
+            "page_title": "Properties",
+            "breadcrumb": "Properties"
+        },
+        "property": {
+            "breadcrumb": "Features"
+        },
+        "property_not_found": {
+            "breadcrumb": "Property Not Found",
+            "page_title": "Property Not Found"
+        },
+        "developments": {
+            "page_title": "Developments",
+            "breadcrumb": "Developments"
+        },
+        "development": {
+            "breadcrumb": "Features"
+        },
+        "development_not_found": {
+            "breadcrumb": "Development Not Found",
+            "page_title": "Development Not Found"
+        },
+        "search_results": {
+            "page_title": "Properties results",
+            "breadcrumb": "Result"
+        },
+        "search_results_devs": {
+            "page_title": "Developments results",
+            "breadcrumb": "Dev Result"
+        },
+        "agents": {
+            "page_title": "Agents",
+            "breadcrumb": "Agents"
+        },
+        "agent": {
+            "breadcrumb": "Agent profile"
+        },
+        "contact": {
+            "page_title": "CONTACT US",
+            "breadcrumb": "Contact"
+        },
+        "error": {
+            "breadcrumb": "Page not found",
+            "page_title": "Error"
+        }
+    }
+}
